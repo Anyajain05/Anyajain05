@@ -1,4 +1,4 @@
-P<div align="center">
+<div align="center">
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%7C+ML+Enthusiast;Building+Real+World+Systems;Future+AI+Engineer+🚀" />
