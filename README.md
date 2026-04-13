@@ -109,75 +109,103 @@ Contact   : itzanyajain05@gmail.com
 
 ## `> projects --showcase`
 
+---
+
 <table>
 <tr>
-<td width="50%">
-<hr>
-### 🛡️ RealtimeGuard — AI Fraud Detection System
-> *Blockchain-Secured Financial Intelligence*
 
+<td width="50%" valign="top">
+
+<div>
+
+<h3>🛡️ RealtimeGuard — AI Fraud Detection System</h3>
+
+<p><i>Blockchain-Secured Financial Intelligence</i></p>
+
+<p>
 Real-time financial security dashboard detecting money laundering (PMLA compliance) and securing analyst actions via Ethereum-based blockchain.
+</p>
 
-**Features:**
-- 🕵️ Fraud detection engine — Structuring, CTR, Velocity anomalies
-- 🔗 Web3.js & SHA-256 for tamper-proof blockchain audit trails
-- 📡 WebSocket-powered real-time transaction alerts
-- ✅ PMLA compliance-ready dashboard
+<b>Features:</b>
+<ul>
+<li>🕵️ Fraud detection engine — Structuring, CTR, Velocity anomalies</li>
+<li>🔗 Web3.js & SHA-256 for tamper-proof blockchain audit trails</li>
+<li>📡 WebSocket-powered real-time transaction alerts</li>
+<li>✅ PMLA compliance-ready dashboard</li>
+</ul>
 
-![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square)
-![Tech](https://img.shields.io/badge/Tech-React%20|%20Node.js%20|%20Web3.js%20|%20WebSocket-blue?style=flat-square)
-![Type](https://img.shields.io/badge/Type-FinTech%20|%20AI%20|%20Security-red?style=flat-square)
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tech-React%20|%20Node.js%20|%20Web3.js%20|%20WebSocket-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Type-FinTech%20|%20AI%20|%20Security-red?style=flat-square"/>
+
+</div>
 
 </td>
-<td width="50%">
-<hr>
 
-### 🥛 MilkoSense — AI Milk Quality Detection
-> *Minor Project | Aug–Dec 2025*
+<td width="50%" valign="top">
 
-AI-based system to test milk quality for dairy safety using Python & Machine Learning algorithms — improved detection efficiency and reduced manual testing effort.
+<div>
 
-**Features:**
-- 🧪 ML-based classification for milk quality grading
-- 🐍 Python + ML algorithms pipeline
-- 📈 Improved detection efficiency over manual methods
-- 📋 Presentation & Documentation lead
+<h3>🥛 MilkoSense — AI Milk Quality Detection</h3>
 
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
-![Duration](https://img.shields.io/badge/Duration-Aug–Dec%202025-orange?style=flat-square)
-![Tech](https://img.shields.io/badge/Tech-Python%20|%20ML%20Algorithms-blue?style=flat-square)
+<p><i>Minor Project | Aug–Dec 2025</i></p>
 
-</td>give 
+<p>
+AI-based system to test milk quality for dairy safety using Python & Machine Learning algorithms.
+</p>
+
+<b>Features:</b>
+<ul>
+<li>🧪 ML-based classification for milk quality grading</li>
+<li>🐍 Python + ML algorithms pipeline</li>
+<li>📈 Improved detection efficiency</li>
+<li>📋 Presentation & Documentation lead</li>
+</ul>
+
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/Duration-Aug–Dec%202025-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tech-Python%20|%20ML%20Algorithms-blue?style=flat-square"/>
+
+</div>
+
+</td>
+
 </tr>
+
 <tr>
-<td width="50%">
-<hr>
 
-### 🤖 AI Chatbot using NLP
-> *TensorFlow + NLTK*
+<td width="50%" valign="top">
 
-Intelligent chatbot built with deep learning and natural language processing.
+<div>
 
-**Highlights:**
-- 🧠 Built with TensorFlow & NLTK
-- 📈 Achieved **25% higher accuracy** vs baseline
-- 🔄 Intent classification & response generation
+<h3>🤖 AI Chatbot using NLP</h3>
 
-![Tech](https://img.shields.io/badge/Tech-Python%20|%20TensorFlow%20|%20NLTK-blue?style=flat-square)
+<p><i>TensorFlow + NLTK</i></p>
+
+<p>
+Intelligent chatbot built with deep learning and NLP.
+</p>
+
+<b>Highlights:</b>
+<ul>
+<li>🧠 TensorFlow & NLTK</li>
+<li>📈 25% higher accuracy</li>
+<li>🔄 Intent classification</li>
+</ul>
+
+<img src="https://img.shields.io/badge/Tech-Python%20|%20TensorFlow%20|%20NLTK-blue?style=flat-square"/>
+
+</div>
 
 </td>
-<td width="50%">
 
+<td width="50%" valign="top"></td>
 
-
-
-
-</td>
 </tr>
+
 </table>
 
 ---
-
 ## `> dsa --stats`
 
 <div align="center">
