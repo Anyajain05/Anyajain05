@@ -1,6 +1,10 @@
 P<div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Anya%20Jain&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Builder.%20Analyst.%20AI%20Enthusiast.&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%7C+ML+Enthusiast;Building+Real+World+Systems;Future+AI+Engineer+🚀" />
+</p>
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Anya%20Jain&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Builder.%20Analyst.%20AI%20Enthusiast.&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn)
 
 **`Data Science & AI | Python · ML · Deep Learning`**
 
@@ -29,19 +33,20 @@ Contact   : itzanyajain05@gmail.com
 
 ---
 
-## `> whoami`
+## `> 🧠 About Me`
 
-> 🤖 Focused on **Data Science & Artificial Intelligence** — building real-world ML systems  
-> 🏆 **Runner-Up, Void Hack 7.0** — Won ₹10,000 prize among 120+ teams  
-> 📊 Hands-on with predictive models, NLP systems & data pipelines  
-> ☁️ **Google Cloud Certified** & **Oracle AI Foundations Certified**  
-> 🎯 Placement Drive Coordinator — managed 200+ students at AITR  
+> 🚀 Building **AI/ML systems** with real-world impact  
+> 🏆 Runner-Up — Void Hack 7.0 (₹10,000 among 120+ teams)  
+> 📊 Skilled in ML, NLP & Data Pipelines  
+> ☁️ Google Cloud & Oracle AI Certified   
+ 
 
 ---
 
 ## `> achievements --all`
 
 ### 🏆 Hackathons & Competitions
+
 
 | 🏅 Position | 🎪 Event | 🏷️ Domain |
 |---|---|---|
@@ -62,7 +67,6 @@ Contact   : itzanyajain05@gmail.com
 
 | 🏅 Achievement | Details |
 |---|---|
-| 👩‍💼 Placement Drive Coordinator | Managed scheduling & documentation for 200+ students at AITR |
 | 💻 137+ LeetCode Problems Solved | C++ (99), Python (37), Java (1) |
 
 ---
@@ -76,6 +80,7 @@ Contact   : itzanyajain05@gmail.com
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8B0000?style=for-the-badge&logoColor=white)
@@ -107,7 +112,7 @@ Contact   : itzanyajain05@gmail.com
 <table>
 <tr>
 <td width="50%">
-
+<hr>
 ### 🛡️ RealtimeGuard — AI Fraud Detection System
 > *Blockchain-Secured Financial Intelligence*
 
@@ -125,6 +130,7 @@ Real-time financial security dashboard detecting money laundering (PMLA complian
 
 </td>
 <td width="50%">
+<hr>
 
 ### 🥛 MilkoSense — AI Milk Quality Detection
 > *Minor Project | Aug–Dec 2025*
@@ -141,10 +147,11 @@ AI-based system to test milk quality for dairy safety using Python & Machine Lea
 ![Duration](https://img.shields.io/badge/Duration-Aug–Dec%202025-orange?style=flat-square)
 ![Tech](https://img.shields.io/badge/Tech-Python%20|%20ML%20Algorithms-blue?style=flat-square)
 
-</td>
+</td>give 
 </tr>
 <tr>
 <td width="50%">
+<hr>
 
 ### 🤖 AI Chatbot using NLP
 > *TensorFlow + NLTK*
@@ -161,17 +168,9 @@ Intelligent chatbot built with deep learning and natural language processing.
 </td>
 <td width="50%">
 
-### 🏏 IPL Data Analysis Dashboard
-> *EDA + Predictive Modeling*
 
-Comprehensive exploratory data analysis and predictive modeling on IPL match data.
 
-**Highlights:**
-- 📊 Full EDA with Pandas, Matplotlib & Seaborn
-- 🎯 Predictive model with **80% accuracy**
-- 📉 Visual insights on match outcomes & player stats
 
-![Tech](https://img.shields.io/badge/Tech-Python%20|%20Pandas%20|%20Scikit--learn-blue?style=flat-square)
 
 </td>
 </tr>
@@ -203,6 +202,12 @@ Comprehensive exploratory data analysis and predictive modeling on IPL match dat
 
 [![Anya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anyajain05&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/Anyajain05)
 
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Anyajain05&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anyajain05&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/Anyajain05)
 
 </div>
@@ -212,19 +217,19 @@ Comprehensive exploratory data analysis and predictive modeling on IPL match dat
 ## `> roadmap --2026`
 
 ```
-🎯 SHORT TERM
+### 🎯 Short Term
 ├── 🔄 Master Deep Learning & Neural Networks
 ├── 🔄 Build 3+ end-to-end ML projects
 ├── 🔄 Crack Data Science / AI Internship
 └── 🔄 Solve 200+ LeetCode Problems
 
-🚀 MID TERM
+### 🚀 MID TERM
 ├── ⏳ Contribute to Open Source AI/ML repos
 ├── ⏳ Publish research or project work
 ├── ⏳ Build NLP-based real-world product
 └── ⏳ Explore MLOps & Model Deployment at scale
 
-🌍 LONG TERM
+### 🌍 LONG TERM
 ├── 🌟 Become an AI/ML Engineer at scale
 ├── 🌟 Work on AI for Social Impact
 ├── 🌟 Build data-driven impactful products
@@ -247,6 +252,13 @@ Comprehensive exploratory data analysis and predictive modeling on IPL match dat
 ```
 
 ---
+
+## 💼 Why Me?
+
+✔ Strong in AI/ML + DSA  
+✔ Real-world project experience  
+✔ Fast learner & problem solver  
+✔ Passionate about impactful tech  
 
 ## `> connect --with-me`
 
