@@ -71,6 +71,246 @@ Contact   : itzanyajain05@gmail.com
 
 ---
 
+## `> projects --showcase`
+
+---
+
+### 🥇 Core AI Systems (Flagship Projects)
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div>
+
+<h3>🧠 ReflectOS — Deterministic Reflection Engine</h3>
+
+<p><i>AI-free decision intelligence system</i></p>
+
+<p>
+A structured reflection system using a multi-axis decision tree to guide human thinking without LLM dependency.
+</p>
+
+<b>Highlights:</b>
+<ul>
+<li>🧭 Multi-axis model — Locus, Orientation, Radius</li>
+<li>🧠 Deterministic logic (zero hallucination)</li>
+<li>📊 Fully explainable reasoning paths</li>
+<li>⚡ Streamlit-based system</li>
+</ul>
+
+<img src="https://img.shields.io/badge/Type-AI%20System-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/UI-Streamlit-orange?style=flat-square"/>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div>
+
+<h3>🤖 AI Project Builder Agent</h3>
+
+<p><i>Autonomous AI developer system</i></p>
+
+<p>
+End-to-end AI agent that plans, builds, reviews, and evaluates software projects automatically.
+</p>
+
+<b>Features:</b>
+<ul>
+<li>🧠 Intelligent planning</li>
+<li>⚙️ Code generation + review</li>
+<li>📊 Performance scoring</li>
+<li>🔁 Iterative improvement loop</li>
+</ul>
+
+<img src="https://img.shields.io/badge/Type-Agent%20System-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend-FastAPI-blue?style=flat-square"/>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div>
+
+<h3>🔬 Multi-Agent Research System</h3>
+
+<p><i>LangChain-powered research automation</i></p>
+
+<p>
+AI system with search, scraping, writing, and critique agents to generate structured reports.
+</p>
+
+<b>Agents:</b>
+<ul>
+<li>🌐 Search</li>
+<li>📄 Reader</li>
+<li>✍️ Writer</li>
+<li>🧐 Critic</li>
+</ul>
+
+<img src="https://img.shields.io/badge/Type-Multi--Agent-blueviolet?style=flat-square"/>
+<img src="https://img.shields.io/badge/Framework-LangChain-green?style=flat-square"/>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div>
+
+<h3>🎓 EduAgent AI — Learning Engine</h3>
+
+<p><i>Self-evaluating AI education system</i></p>
+
+<p>
+Generates and evaluates learning content using a feedback loop.
+</p>
+
+<b>Features:</b>
+<ul>
+<li>📘 Content generation</li>
+<li>🧐 Evaluation agent</li>
+<li>🔁 Self-improvement loop</li>
+</ul>
+
+<img src="https://img.shields.io/badge/Type-EdTech-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM-Gemini-orange?style=flat-square"/>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+### 🥈 Applied Machine Learning Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div>
+
+<h3>🧬 Breast Cancer Prediction</h3>
+
+<p><i>Healthcare ML classification system</i></p>
+
+<p>
+Predicts tumor type using medical features for early detection.
+</p>
+
+<b>Highlights:</b>
+<ul>
+<li>📊 Feature-based classification</li>
+<li>🌲 Random Forest model</li>
+<li>📈 ~85% accuracy</li>
+</ul>
+
+<img src="https://img.shields.io/badge/Type-Healthcare-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/Model-Random%20Forest-green?style=flat-square"/>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div>
+
+<h3>🏠 House Price Prediction</h3>
+
+<p><i>Real estate ML system</i></p>
+
+<p>
+Predicts Delhi house prices using regression models and real-world data.
+</p>
+
+<b>Highlights:</b>
+<ul>
+<li>📊 EDA + feature engineering</li>
+<li>🌲 Random Forest model</li>
+<li>📈 Market insights</li>
+</ul>
+
+<img src="https://img.shields.io/badge/Type-ML-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data-Real%20World-orange?style=flat-square"/>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+### 🥉 Supporting & Foundational Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div>
+
+<h3>🛡️ RealtimeGuard — AI Fraud Detection</h3>
+
+<p><i>Blockchain-secured financial system</i></p>
+
+<p>
+Detects financial anomalies and ensures audit security using blockchain.
+</p>
+
+<img src="https://img.shields.io/badge/Type-FinTech-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tech-Web3-blue?style=flat-square"/>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div>
+
+<h3>🥛 MilkoSense — Milk Quality AI</h3>
+
+<p><i>ML-based dairy safety system</i></p>
+
+<p>
+Classifies milk quality using machine learning.
+</p>
+
+<img src="https://img.shields.io/badge/Type-ML-green?style=flat-square"/>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
 ## `> skills --list`
 
 ### 🧠 Languages
@@ -107,105 +347,6 @@ Contact   : itzanyajain05@gmail.com
 
 ---
 
-## `> projects --showcase`
-
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<div>
-
-<h3>🛡️ RealtimeGuard — AI Fraud Detection System</h3>
-
-<p><i>Blockchain-Secured Financial Intelligence</i></p>
-
-<p>
-Real-time financial security dashboard detecting money laundering (PMLA compliance) and securing analyst actions via Ethereum-based blockchain.
-</p>
-
-<b>Features:</b>
-<ul>
-<li>🕵️ Fraud detection engine — Structuring, CTR, Velocity anomalies</li>
-<li>🔗 Web3.js & SHA-256 for tamper-proof blockchain audit trails</li>
-<li>📡 WebSocket-powered real-time transaction alerts</li>
-<li>✅ PMLA compliance-ready dashboard</li>
-</ul>
-
-<img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tech-React%20|%20Node.js%20|%20Web3.js%20|%20WebSocket-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Type-FinTech%20|%20AI%20|%20Security-red?style=flat-square"/>
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<div>
-
-<h3>🥛 MilkoSense — AI Milk Quality Detection</h3>
-
-<p><i>Minor Project | Aug–Dec 2025</i></p>
-
-<p>
-AI-based system to test milk quality for dairy safety using Python & Machine Learning algorithms.
-</p>
-
-<b>Features:</b>
-<ul>
-<li>🧪 ML-based classification for milk quality grading</li>
-<li>🐍 Python + ML algorithms pipeline</li>
-<li>📈 Improved detection efficiency</li>
-<li>📋 Presentation & Documentation lead</li>
-</ul>
-
-<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square"/>
-<img src="https://img.shields.io/badge/Duration-Aug–Dec%202025-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tech-Python%20|%20ML%20Algorithms-blue?style=flat-square"/>
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<div>
-
-<h3>🤖 AI Chatbot using NLP</h3>
-
-<p><i>TensorFlow + NLTK</i></p>
-
-<p>
-Intelligent chatbot built with deep learning and NLP.
-</p>
-
-<b>Highlights:</b>
-<ul>
-<li>🧠 TensorFlow & NLTK</li>
-<li>📈 25% higher accuracy</li>
-<li>🔄 Intent classification</li>
-</ul>
-
-<img src="https://img.shields.io/badge/Tech-Python%20|%20TensorFlow%20|%20NLTK-blue?style=flat-square"/>
-
-</div>
-
-</td>
-
-<td width="50%" valign="top"></td>
-
-</tr>
-
-</table>
-
----
 ## `> dsa --stats`
 
 <div align="center">
